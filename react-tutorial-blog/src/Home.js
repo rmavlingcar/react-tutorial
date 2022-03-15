@@ -9,10 +9,16 @@ const Home = () => {
         { title: 'Automation of aggregating 2D images online with python', body: 'lorem ipsum...', author: 'Shaun', id: 4 },
         { title: 'Why Miss Fortune is the only champion you should play', body: 'lorem ipsum...', author: 'Joe', id: 5 }
     ])
+
+    const handleDelete = (id) => {
+        const newBlogs = blogs.filter(blog => blog.id != id);
+        setBlogs(newBlogs);
+    }
+
     return ( 
     <div className="home">
-        <BlogList blogs={ blogs } title="All Blogs"></BlogList>
-        <BlogList blogs={ blogs.filter((blog) => blog.author === 'Ricky')} title="Ricky's Blogs"></BlogList>
+        <BlogList blogs={ blogs } title="All Blogs" handleDelete={ handleDelete }></BlogList>
+        <BlogList blogs={ blogs.filter((blog) => blog.author === 'Ricky')} title="Ricky's Blogs" handleDelete={ handleDelete }></BlogList>
     </div> 
     );
 }
