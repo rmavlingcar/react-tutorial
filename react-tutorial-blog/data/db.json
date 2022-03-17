@@ -1,10 +1,46 @@
-
 {
-    "blogs":[
-        { "title": "My new website", "body": "lorem ipsum...", "author": "Ricky", "id": 1 },
-        { "title": "Welcome party!", "body": "lorem ipsum...", "author": "Robin", "id": 2 },
-        { "title": "Web dev top tips", "body": "lorem ipsum...", "author": "Ricky", "id": 3 },
-        { "title": "Automation of aggregating 2D images online with python", "body": "lorem ipsum...", "author": "Shaun", "id": 4 },
-        { "title": "Why Miss Fortune is the only champion you should play", "body": "lorem ipsum...", "author": "Joe", "id": 5 }
-    ]
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Ricky",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "Robin",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "Ricky",
+      "id": 3
+    },
+    {
+      "title": "Automation of aggregating 2D images online with python",
+      "body": "lorem ipsum...",
+      "author": "Shaun",
+      "id": 4
+    },
+    {
+      "title": "Why Miss Fortune is the only champion you should play",
+      "body": "lorem ipsum...",
+      "author": "Joe",
+      "id": 5
+    },
+    {
+      "title": "There should be a \"re-roll for the bois\" option in ARAM ",
+      "body": "Sometimes I have a free re-roll, but I want to stick with my current champion. To help those less fortunate than me I want to re-roll to give them options, but don't want my champion to be stolen from me. I propose a new button be added that adds a champion to the pool, but allows me to keep my current champion.",
+      "author": "Ricky",
+      "id": 6
+    },
+    {
+      "title": "Why Orcas in Captivity KIll People",
+      "body": "Orcas just don't fare well in captivity; each orca pod speaks a unique 'language' with the babies learning from their parents. The orcas at Seaworld struggle to communicate with each other. When female orca have offspring in the wild the baby stays with the pod it's entire life, at Seaworld they take babies from their mothers as soon as they're weaned. They recorded orcas making a unique sound that had never been heard before the first time they took one of the babies away; she was trying to call over long distances, the researchers compared it to a human mother screaming for her child when they went missing at a store or amusement park. For months after she just floated despondently occasionally calling for her baby. Not only was that her baby they took, it was the only individual she had that had learned to communicate in her language.\n\nTilikum, the orca who killed 3 people in his life, was wild caught as a baby; a bunch of the mother orcas died trying to protect their babies when he was caught, Tilly's mom might have been one of them. So he may have literally watched her die. Since he's been in captivity SeaLand (not associated with SeaWorld but it was his first 'owner') and SeaWorld have denied him food if he refuses to perform. The smaller females, who he can't communicate with, outmaneuver and attack him so he had to be kept in isolation for the vast majority of his life. He's really scarred up if you ever saw him up close... although SeaWorld staff would daily apply black zinc oxide to hide scars and prevent sunburn and hide existing burns. You couldn't really see the color difference in the scars but you'd see his skin wasn't smooth, it was covered in ridges from other whales raking him with their teeth. Whales aren't supposed to stay that close to the surface 24/7 even the deepest part of their pool isn't anywhere near deep enough, so they're constantly burning. If you look their is video of one female ramming another until blood was coming out of the other female's blowhole; she caused internal bleeding and the other female bled out in minutes.\n\nScans of orca brains and dissections of deceased animals have shown that their emotional/social section of their brain is proportionately significantly larger than that of humans. With other animals when a part of the brain is proportionally larger (like dogs and sense of smell; or owls with eyesight) it has meant that they are more adept than humans in that area. Based on this marine biologists believe orcas are more socially and emotionally intelligent than humans are. Their relationships with others in their group mean everything to them.\n\nThese animals aren't playing with keepers/trainers when they kill them. Imagine humans that watched their parents die, were kept in solitary confinement for years in a tiny cell, were deprived of food if they didn't smile and dance, etc. These orcas aren't playing, they've essentially been molded into psychopaths.\n\nTilly died a few years ago from a respiratory infection, in the wild Orca live around 80 years, in Seaworld the average life expectancy is 25. Honestly, it's a blessing he died, anything is better than being in that hellhole.",
+      "author": "Robin",
+      "id": 7
+    }
+  ]
 }
